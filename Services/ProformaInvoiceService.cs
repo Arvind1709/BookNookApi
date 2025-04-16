@@ -6,11 +6,6 @@ using TheBookNookApi.AppDbContext;
 using TheBookNookApi.Dtos;
 using TheBookNookApi.Services.Interfaces;
 
-//using MimeKit;
-//using System.Net.Mail;
-
-
-
 
 namespace TheBookNookApi.Services
 {
