@@ -10,7 +10,6 @@ using TheBookNookApi.Services.Interfaces;
 namespace TheBookNookApi.Services
 {
     #region ProformaInvoiceService
-
     /// <summary>
     /// Service implementation for proforma invoice operations such as generating PDF and sending email.
     /// </summary>
